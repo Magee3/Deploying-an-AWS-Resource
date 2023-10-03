@@ -21,15 +21,31 @@ We will continue to explore AWS and check out what services they have.
 
 ![3](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/dbd3604d-ff9d-4c61-b1c0-fd939ac87c7b)
 
+Click on "All Services"
+
 ![4](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/5117d4f7-a653-476d-a9c7-cb16a670d56c)
 
+Click on "Compute" the select EC2"
 
-![5](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/7a1f48a0-1137-46a5-abe9-2b571ea29454)
+![5](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/6516a490-38e5-4d2a-b730-b1c7d7761ae0)
+
+Here is the EC2 Dashboard, the HUB in which you will change all of your EC2 settings.
 
 ![6](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/84f9aece-55c0-4694-9a93-31e382c63d15)
+
+Select "Instances"
+
 ![7](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ecb9e04d-4b4b-486e-b32e-76444736a366)
+
+Here is you Instances page where you will find what services are running, stopped, etc. To return to the main page select "EC2 Dashboard"
+
 ![8](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a1599489-01b2-4126-a493-72fc2b7fb3f2)
-![9](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/833e3513-cc83-4a0d-bd60-0cb1d9a19c22)
+
+Type in "compute" in the searchbar above and select "Elastic Container Service". If it does not show up select "See all results" and proceed.
+
+![9](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3e1ff209-6dab-4893-84fe-e37c7d5dddba)
+
+
 ![10](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3ae1c321-abbb-4500-b9ec-68133a801142)
 ![11](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/34bbd7c0-1f8c-448b-bdce-4e8c8157d490)
 ![12](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a1139cf6-86e0-420e-97fe-4c334ec0a643)
