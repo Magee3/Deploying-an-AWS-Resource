@@ -17,9 +17,15 @@ In the top right corner of the AWS console you can select what region you would 
 
 ### Stage 2: Access Common AWS Services
 
+We will continue to explore AWS and check out what services they have.
+
 ![3](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/dbd3604d-ff9d-4c61-b1c0-fd939ac87c7b)
-![4](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/8abf5292-8034-4489-9ce7-ddc9aab2d9fa)
+
+![4](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/5117d4f7-a653-476d-a9c7-cb16a670d56c)
+
+
 ![5](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/7a1f48a0-1137-46a5-abe9-2b571ea29454)
+
 ![6](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/84f9aece-55c0-4694-9a93-31e382c63d15)
 ![7](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ecb9e04d-4b4b-486e-b32e-76444736a366)
 ![8](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a1599489-01b2-4126-a493-72fc2b7fb3f2)
