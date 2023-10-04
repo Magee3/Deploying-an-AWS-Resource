@@ -97,7 +97,7 @@ Then select "Actions" ---> "Create default VPC"
 
 Select "Create default VPC" again the REPS!!!
 
-![21](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/310e3ab0-f499-43d1-9488-0e8402e706a3)
+![21](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/e2ad55ff-19b0-4640-bdb0-e143b65039d6)
 
 Congrats it has been created! Just select "Your VPC's" to check it out.
 
