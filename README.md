@@ -21,7 +21,9 @@ We will continue to explore AWS and check out what services they have.
 
 ![3](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/dbd3604d-ff9d-4c61-b1c0-fd939ac87c7b)
 
-Click on "All Services"
+Click on "All Services" 
+
+This displays and lists all of the services in alphabetical order.
 
 ![4](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/5117d4f7-a653-476d-a9c7-cb16a670d56c)
 
@@ -29,11 +31,13 @@ Click on "Compute" the select EC2"
 
 ![5](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/6516a490-38e5-4d2a-b730-b1c7d7761ae0)
 
-Here is the EC2 Dashboard, the HUB in which you will change all of your EC2 settings.
+Here is the EC2 Dashboard, the HUB in which you will change all of your EC2 settings. EC2 is where you will setup virtualization/cloud computing services. It is the Land you will be renting.
 
 ![6](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/84f9aece-55c0-4694-9a93-31e382c63d15)
 
 Select "Instances"
+
+The instance is the virtual PC you will create, this will be your workstation or box so to say. Or even the houses you are putting on the rented land.
 
 ![7](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ecb9e04d-4b4b-486e-b32e-76444736a366)
 
@@ -47,6 +51,7 @@ Type in "compute" in the searchbar above and select "Elastic Container Service".
 ![10](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3ae1c321-abbb-4500-b9ec-68133a801142)
 
 Here is the Container Service page / Cluster page. 
+
 Select "Create cluster"
 
 ![11](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/34bbd7c0-1f8c-448b-bdce-4e8c8157d490)
@@ -209,6 +214,7 @@ You will notice that the instance type has successfully changed.
 
 ![49](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/d501ecf8-599f-42e9-90fc-70500c68fd70)
 
+Fin.
 
 
 
