@@ -56,7 +56,7 @@ Select "Create cluster"
 
 ![11](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/34bbd7c0-1f8c-448b-bdce-4e8c8157d490)
 
-Here is where we can create and modify clusters. Just scroll down to the bottom and click cancel. 
+Here is where we can create and modify clusters obviously but what does that mean? Clusters are used to group Instances or our houses together. I guess in real estate terms this is the neighborhood? Just scroll down to the bottom and click cancel. 
 
 ![12](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a1139cf6-86e0-420e-97fe-4c334ec0a643)
 ![13](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2cbcd107-d185-4df2-b369-e9ab3506312f)
@@ -71,6 +71,8 @@ At the top click the AWS logo or tpye "home" to return to the dashboard.
 
 
 ### Stage 3: Create a Default Virtual Private Cloud (VPC)
+
+VPC's is where we will create a virtual network to connect our instances, and other things.
 
 ![16](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/fa02d8af-94b7-437a-b72d-edc0c667f521)
 
@@ -103,12 +105,6 @@ If you need to you may hit the pen button and name you VPC.
 ![23](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4558f8ad-a0d9-4c1c-acc0-cad9e25ce70f)
 
 ![24](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/c9502bee-9b58-45fc-a390-c0bbb9dbd67f)
-
-
-
-
-
-
 
 
 ### Stage 4: Deploy an EC2 Instance
