@@ -1,5 +1,8 @@
 # Deploying-an-AWS-Resource
 
+![Deploying an AWS Resource](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/63eb0d98-faeb-43f1-9431-eb3c0b86f48f)
+
+
 ## Objective
 
 We will create a proof of concept virtualization deployment. We will explore the AWS Console interface, create a resource group to manage a departments AWS resources, and lastly we will configure and scale a virtual machine.
