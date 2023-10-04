@@ -192,13 +192,20 @@ You will notice that the launch time has chamged.
 
 ### Stage 6: Scale an Existing EC2 Instance
 
+We will now scale our instance. 
+Right Click and select "Stop Instance"
 
 ![46](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/0d324ec6-9401-4ad4-b6ee-ad76eafcbc43)
 
+Now Right Click --> Instance Settings --> Change Instance Type.
+
 ![47](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/d2ba2a3b-1231-4b38-8c11-d1c261d60d5e)
 
+Swap to which ever size you need and procceed.
 
 ![48](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2f73d154-fbf7-4a38-a703-147be09d4382)
+
+You will notice that the instance type has successfully changed.
 
 ![49](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/d501ecf8-599f-42e9-90fc-70500c68fd70)
 
