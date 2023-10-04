@@ -199,7 +199,8 @@ You will notice that the launch time has changed.
 We will now scale our instance. 
 Right Click and select "Stop Instance"
 
-![46](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2e178130-3be3-4838-935e-6483aa0bae33)
+![46](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a8c0820b-b1e5-46c0-850f-864a8df7e0a4)
+
 
 
 Now Right Click --> Instance Settings --> Change Instance Type.
