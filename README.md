@@ -44,16 +44,24 @@ Here is you Instances page where you will find what services are running, stoppe
 Type in "compute" in the searchbar above and select "Elastic Container Service". If it does not show up select "See all results" and proceed.
 
 ![9](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3e1ff209-6dab-4893-84fe-e37c7d5dddba)
-
-
 ![10](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3ae1c321-abbb-4500-b9ec-68133a801142)
+
+Here is the Container Service page / Cluster page. 
+Select "Create cluster"
+
 ![11](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/34bbd7c0-1f8c-448b-bdce-4e8c8157d490)
+
+Here is where we can create and modify clusters. Just scroll down to the bottom and click cancel. 
 ![12](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/a1139cf6-86e0-420e-97fe-4c334ec0a643)
 ![13](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2cbcd107-d185-4df2-b369-e9ab3506312f)
+
+ECS is a fully managed orchestration service for containers. Fargate is a serverless pay-as-you-go compute engine that allows you to focus on building apps without managing servers. This leverages a serverkess archutectyre for resources on your container.
+
 ![14](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/db3522e1-712f-437a-95e2-4f0860865737)
+
+At the top click the AWS logo or tpye "home" to return to the dashboard.
+
 ![15](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2b3182f6-da92-4bbe-bb13-6b9529e65ca7)
-
-
 
 
 ### Stage 3: Create a Default Virtual Private Cloud (VPC)
