@@ -62,7 +62,7 @@ ECS is a fully managed orchestration service for containers. Fargate is a server
 
 At the top click the AWS logo or tpye "home" to return to the dashboard.
 
-![15](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/2b3182f6-da92-4bbe-bb13-6b9529e65ca7)
+![15](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ffb285dc-f970-43cb-b3d1-53f4f5cddc94)
 
 
 ### Stage 3: Create a Default Virtual Private Cloud (VPC)
@@ -113,7 +113,9 @@ At the top click the AWS logo or tpye "home" to return to the dashboard.
 
 ![34](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/f4855956-36df-4740-83db-9a864287376d)
 
-![35](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/30bb312b-3524-4b5b-b402-891abb5cdfb1)
+![35](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/8417e58b-4a67-4a6e-adb5-9337082da0ca)
+
+
 
 ![36](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/bd1e7943-d2bb-45d6-a200-1e5a4fa86fde)
 
