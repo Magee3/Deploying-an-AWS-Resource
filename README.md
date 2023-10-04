@@ -69,17 +69,31 @@ At the top click the AWS logo or tpye "home" to return to the dashboard.
 
 ![16](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/fa02d8af-94b7-437a-b72d-edc0c667f521)
 
+Now go right back to the top we gotta get the reps in! Type in "VPC" and click VPC.
+
 ![17](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4b96d3e9-2ae1-48ab-b2b7-5fcdb4e22207)
+
+Here is our VPC dashboard.
+
+Click "Your VPC's" on the left.
 
 ![18](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/5dc82f94-ba0e-4273-aeaa-be43a84b7f34)
 
 ![19](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ea4b3fb3-ee11-4c1d-88f3-82e5a98772a6)
 
+Then select "Actions" ---> "Create default VPC"
+
 ![20](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/ff36ebd1-36b8-4b42-a981-f3589bc6771b)
+
+Select "Create default VPC" again the REPS!!!
 
 ![21](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/310e3ab0-f499-43d1-9488-0e8402e706a3)
 
+Congrats it has been created! Just select "Your VPC's" to check it out.
+
 ![22](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/3d8510a2-9f8d-47c7-b254-c167e411cbd7)
+
+If you need to you may hit the pen button and name you VPC.
 
 ![23](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4558f8ad-a0d9-4c1c-acc0-cad9e25ce70f)
 
@@ -94,32 +108,52 @@ At the top click the AWS logo or tpye "home" to return to the dashboard.
 
 ### Stage 4: Deploy an EC2 Instance
 
+Now we will create an EC2 instane. Head over to the EC2 Dashboard and click "Launch Instance".
 
 ![25](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/76e06c54-6d1e-4824-ad01-b714b996a8ea)
 
+This is where we will customize our virtual machine. Kinda like in the first tutorial. <!-- Note to self start numbering the tutorials! -->
+In the box below you can name your instance whatever you want. On the right of the box hit "Add additional tags"
+
 ![26](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/7d335b04-4838-4642-a5bb-fce3a1db80ee)
+
+We will sign a Environment tag to our instance and call it Dev.
 
 ![28](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/0d97a464-1b60-4158-bd1a-2af98c962b8e)
 
+Moving on along we are given the option to select our operating system.
+
 ![29](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/f70d6389-0670-4cdf-94a4-522fbff1aee1)
+
+Scrolling down you are given the option to change the instance type. Meaning this is where you select how much power you virtual machine will have. Just remember with great power comes great expenses.
 
 ![30](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/fa11ad19-cd55-4167-ab3f-be54a559b1d2)
 
-![31](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/af63fa9d-6a2d-481d-8a28-939b84faadeb)
+You will notice a key pair login, this is where you can create private and public keys for your machine. Highly RECOMMEND selecting something!
 
+![31](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/af63fa9d-6a2d-481d-8a28-939b84faadeb)
 ![32](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/088dd9eb-7b67-4156-8991-658dc80e7ca1)
+
+Now we can modify our network settings, firewall settings, etc. 
+
+Select "edit".
 
 ![33](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/b0d020e5-434a-4e4b-ac12-f594c5ca908d)
 
-![34](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/f4855956-36df-4740-83db-9a864287376d)
+Here is the network page below we will change the subnet region to one that is closest to us, for better connectivity.
 
+![34](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/f4855956-36df-4740-83db-9a864287376d)
 ![35](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/8417e58b-4a67-4a6e-adb5-9337082da0ca)
 
-
+!i!i!i!i Note i!i!i!i!i that the machines storage is at the very end. We are done configuring our Instance we will now Launch It!.
 
 ![36](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/bd1e7943-d2bb-45d6-a200-1e5a4fa86fde)
 
+Select "Instances"
+
 ![37](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/c33dc7c5-8a8b-485d-b403-765dee1cf1d2)
+
+And wallah! The virtual machine is running nice and healthy.
 
 ![38](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/98c1b0e8-a6ad-4cfd-8f53-fd26c8805236)
 
@@ -127,17 +161,31 @@ At the top click the AWS logo or tpye "home" to return to the dashboard.
 
 ### Stage 5: Manage EC2 Instance State
 
+We will now manage the state of our EC2 instance.
+
+Check the box next to the instance you just created.
+
 ![39](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/422d4b41-38ab-47d9-becc-e1f3e1ae98f2)
+
+Below you can see information about the instance. Note the launch time.
 
 ![40](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/31c62e5f-6051-4ae3-a974-5f0ebc46c9ba)
 
+Right click your instance and reboot it and check the launch time again.
+
 ![41](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/0f62f17d-d247-4385-ad96-f2ff8c3f0060)
+
+You will notice the time does not change but, if you stop it...
 
 ![42](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4b481e54-b478-4f8e-aed9-996adc0f6eb0)
 
 ![43](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/23884eb8-c134-4b6e-9052-0e96a37bbbf4)
 
+and start.
+
 ![44](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/54b740bf-ff84-4a3b-b230-60d437a3da4d)
+
+You will notice that the launch time has chamged.
 
 ![45](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4554ba80-600a-421c-9ea1-2c8aedda8a7e)
 
