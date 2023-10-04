@@ -189,7 +189,7 @@ and start.
 
 ![44](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/54b740bf-ff84-4a3b-b230-60d437a3da4d)
 
-You will notice that the launch time has chamged.
+You will notice that the launch time has changed.
 
 ![45](https://github.com/Magee3/Deploying-an-AWS-Resource/assets/134301259/4554ba80-600a-421c-9ea1-2c8aedda8a7e)
 
